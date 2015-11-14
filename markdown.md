@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research: Peer Assessment 1 - Vinod Puthukkudy"
 output: 
-  html_document:
+  html_document:RepData_PeerAssessment1-vinod.html
     keep_md: true
 ---
 
